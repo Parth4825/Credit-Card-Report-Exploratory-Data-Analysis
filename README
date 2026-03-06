@@ -1,0 +1,62 @@
+==============================================================================================================
+                                       Credit Card Report – Exploratory Data Analysis Project
+==============================================================================================================
+
+
+This is an end-to-end Exploratory Data Analysis (EDA) project where I analyzed credit card customer and 
+transaction data using Python (Pandas), MySQL, and Power BI.
+I have created this project to practice the complete workflow of cleaning raw data, storing it in a database, 
+and building dashboards to generate insights.
+
+
+Project Workflow
+-----------------
+
+1. Data Processing (Python – Pandas)
+
+* Loaded and cleaned CSV datasets
+* Checked duplicates and formatted data
+* Prepared datasets for database storage
+
+2. Database Management (MySQL)
+
+* Created tables for customer and credit card datasets
+* Added Primary and Foreign Key relationships
+* Converted date fields and performed joins for analysis
+
+3. Data Visualization (Power BI)
+
+* Built an interactive dashboard
+* Analyzed customer demographics, revenue trends, and transaction patterns
+
+
+Tools Used
+-----------
+
+Python (Pandas)
+MySQL
+Power BI
+Jupyter Notebook
+
+
+Project Structure
+------------------
+
+Credit-Card-EDA/
+├── customer.csv
+├── credit_card.csv
+├── Cards.ipynb
+├── cards.sql
+└──  Cards_PowerBI.pbix
+
+
+Skills Practiced
+-----------------
+* Exploratory Data Analysis (EDA)
+* Data cleaning using Pandas
+* SQL joins and database relationships
+* Dashboard creation using Power BI
+
+This project helped me understand how Python, MySQL, and Power BI work together in a data analytics workflow.
+
+==============================================================================================================
