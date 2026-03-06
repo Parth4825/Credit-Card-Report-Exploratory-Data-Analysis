@@ -4,7 +4,7 @@ This project is an **end-to-end Exploratory Data Analysis (EDA)** project where 
 
 The goal of this project was to understand **customer demographics, revenue patterns, and transaction behavior** by performing data cleaning, database analysis, and interactive visualization.
 
-As a **fresher in data analytics**, I created this project to practice the complete workflow of transforming raw data into meaningful insights.
+I have created this project to practice the complete workflow of transforming raw data into meaningful insights.
 
 ---
 
